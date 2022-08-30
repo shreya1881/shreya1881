@@ -1,5 +1,5 @@
 
-# Hey, I am Shreya Dutta 👋
+# Hey, I am Shreya Dutta 👋 <br />
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 ## :speech_balloon: About Me
