@@ -1,5 +1,6 @@
 
 # Hey, I am Shreya Dutta 👋
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 ## :speech_balloon: About Me
 :arrow_right: Myself, Shreya Dutta. I am an undergraduate student pursuing **B.Tech in Computer Science Engineering with specialization in Big Data Analytics**, SRM Institute of Science and Technology, KTR, Chennai. I am a **Front-end Android App Developer** and an **aspiring Data Scientist**. <br />
