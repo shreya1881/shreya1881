@@ -20,7 +20,7 @@
 * <b>Back-end</b> of Android App development (Flutter). <br />
 * <b>Data Base Management Systems</b>. <br />
 * <b>Machine Learning</b>. <br />
-* More about Python in-buil libraries. <br />
+* More about Python in-built libraries. <br />
 
 ## :medal_sports: Achievements 
 * I received <b>performance based Scholarship</b>, worth Rs.62,500, issued by MGT from my university for scoring 10/10 CGPA in the First year of my engineering.
