@@ -38,6 +38,8 @@
 <a href="https://auth.geeksforgeeks.org/user/2704shreya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="2704shreya" height="30" width="40" /></a>
 </p> <br />
 
+<img src="https://komarev.com/ghpvc/?username=shreya1881&style=flat-square&color=blue" alt=""/>
+
 ## :books: GitHub Stats:  <br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shreya1881&show_icons=true&theme=tokyonight)](https://github.com/shreya1881)
