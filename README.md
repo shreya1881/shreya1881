@@ -28,8 +28,10 @@
 * I received <b>performance based Scholarship</b>, worth Rs.62,500, issued by MGT from my university for scoring 10/10 CGPA in the First year of my engineering.
 
 ## :trophy: Courses and Certifications
+* Completed course on Python for Data science. Platform: NPTEL. Got <b>79%, Elite+Silver Rank</b>. <br />
 * Completed course on Data analytics with Python. Platform: NPTEL, course conducted by: IIT Roorkee. Got <b>76%, Elite+Silver Rank</b>. <br />
-* Completed course on Tools for Data Science. Platform: Coursera. <br />
+* Completed course on Tools for Data Science and Data Science MEthodology. Platform: Coursera. <br />
+* Completed course on SQL for Data science through coursera. <br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
