@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I am Shreya Dutta 👋 </h1>
   
 ## :speech_balloon: About Me
-:arrow_right: Myself, Shreya Dutta. I am an undergraduate student pursuing **B.Tech in Computer Science Engineering with specialization in Big Data Analytics**, SRM Institute of Science and Technology, KTR, Chennai. I am a **Front-end Android App Developer** and an **aspiring Data Scientist**. <br />
+:arrow_right: Myself, Shreya Dutta. I completed my **B.Tech in Computer Science Engineering with specialization in Big Data Analytics**,from SRM Institute of Science and Technology, KTR, Chennai. I am a **Front-end Android App Developer** and an **aspiring Data Scientist**. <br />
 :arrow_right: Till now, I have learnt about various programming languages like **C, C++ and Python**. I have also learnt about **flutter and Dart and the entire front end** related to it.<br />
 :arrow_right: I am really enthusiastic about learning and knowing about new technologies and contirbuting wherever and whenever I can.<br />
 :arrow_right: I enjoy reading. Be it books, articles or blogs nothing fails to amaze me. My hobbies include painting too.<br />
